@@ -1,0 +1,2 @@
+# zenny
+template no-magento
