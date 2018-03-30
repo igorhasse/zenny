@@ -1,0 +1,15 @@
+{
+    "snow-blank": {
+        "src": "vendor/snowdog/theme-blank-sass",
+        "dest": "pub/static/frontend/Snowdog/blank",
+        "locale": ["pt_BR"]
+    },
+    "zenny-default": {
+        "src": "app/design/frontend/Zenny/default",
+        "dest": "pub/static/frontend/Zenny/default",
+        "locale": ["pt_BR"],
+        "localeOverwrites": true,
+        "parent": "snow-blank",
+        "postcss": ["plugins.autoprefixer()"]
+    }
+}
