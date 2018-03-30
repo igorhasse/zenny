@@ -1,0 +1,9 @@
+{
+    "proxy": "dev.zenny",
+    "rewriteRules": [
+        {
+            "match": ".dev.zenny",
+            "replace": ""
+        }
+    ]
+}
