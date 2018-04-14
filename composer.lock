@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "18ddade749bc12da8d80fbe8c1f4ff81",
-    "content-hash": "73ce724c0d8acf0962c1efaa06128c64",
+    "hash": "c8ef2b8ab2bbded637e66bf75fee26d8",
+    "content-hash": "be3a79832311e13f9e53fce3561d6ec8",
     "packages": [
         {
             "name": "braintree/braintree_php",
@@ -6822,36 +6822,6 @@
             "description": "An extendable framework for version control hooks.",
             "abandoned": "phpro/grumphp",
             "time": "2014-09-22 08:40:36"
-        },
-        {
-            "name": "snowdog/theme-blank-sass",
-            "version": "1.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/SnowdogApps/magento2-theme-blank-sass.git",
-                "reference": "ba7dde75d02832f08fb1bf081180cc9a52b7250b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/SnowdogApps/magento2-theme-blank-sass/zipball/ba7dde75d02832f08fb1bf081180cc9a52b7250b",
-                "reference": "ba7dde75d02832f08fb1bf081180cc9a52b7250b",
-                "shasum": ""
-            },
-            "require": {
-                "magento/framework": "101.0.*"
-            },
-            "type": "magento2-theme",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "SASS based version of Magento 2 Blank theme",
-            "time": "2018-03-27 16:00:55"
         },
         {
             "name": "symfony/console",

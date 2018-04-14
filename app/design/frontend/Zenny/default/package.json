@@ -1,0 +1,30 @@
+{
+  "name": "zenny-default-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fractal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Santiago <carlos@trezo.com.br>",
+  "license": "ISC",
+  "dependencies": {
+    "animate.scss": "0.0.6",
+    "autoprefixer": "^6.5.1",
+    "bootstrap": "4.0.0-alpha.6",
+    "bourbon-neat": "^2.1.0",
+    "browser-sync": "^2.17.3",
+    "chosen-js": "^1.8.2",
+    "font-awesome": "^4.7.0",
+    "git-rev-sync": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.1.1",
+    "node-sass": "^4.8.3",
+    "owl.carousel": "^2.2.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
